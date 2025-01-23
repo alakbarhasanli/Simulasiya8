@@ -10,3 +10,16 @@ C:\Users\II Novbe\source\repos\NinthProject\Project.DAL\obj\Debug\net8.0\Project
 C:\Users\II Novbe\source\repos\NinthProject\Project.DAL\obj\Debug\net8.0\refint\Project.DAL.dll
 C:\Users\II Novbe\source\repos\NinthProject\Project.DAL\obj\Debug\net8.0\Project.DAL.pdb
 C:\Users\II Novbe\source\repos\NinthProject\Project.DAL\obj\Debug\net8.0\ref\Project.DAL.dll
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\bin\Debug\net8.0\Project.DAL.deps.json
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\bin\Debug\net8.0\Project.DAL.dll
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\bin\Debug\net8.0\Project.DAL.pdb
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\obj\Debug\net8.0\Project.DAL.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\obj\Debug\net8.0\Project.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\obj\Debug\net8.0\Project.DAL.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\obj\Debug\net8.0\Project.DAL.AssemblyInfo.cs
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\obj\Debug\net8.0\Project.DAL.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\obj\Debug\net8.0\Project.DAL.sourcelink.json
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\obj\Debug\net8.0\Project.DAL.dll
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\obj\Debug\net8.0\refint\Project.DAL.dll
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\obj\Debug\net8.0\Project.DAL.pdb
+C:\Users\HP\Desktop\NinthProject\Simulasiya8\NinthProject\Project.DAL\obj\Debug\net8.0\ref\Project.DAL.dll

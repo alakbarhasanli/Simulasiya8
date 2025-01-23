@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Project.BL.DTOs;
 using Project.BL.Services.Abstractions;
 using Project.DAL.Contexts;
@@ -7,6 +8,7 @@ using Project.DAL.Exceptions;
 namespace NinthProject.Areas.admin.Controllers
 {
     [Area("admin")]
+    [Authorize(Roles =("admin"))]
     public class DoctorController : Controller
     {
         private readonly NinthDbContext _context;

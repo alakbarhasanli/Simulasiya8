@@ -80,7 +80,6 @@ namespace NinthProject.Controllers
             {
 
                 await _service.LogoutAsync();
-                return View("Index","Home");
 
             }
             catch (BaseException ex)
@@ -93,6 +92,7 @@ namespace NinthProject.Controllers
 
                 return BadRequest("Something Went Wrong");
             }
+                return RedirectToAction("Index","Home");
         }
 
     }
